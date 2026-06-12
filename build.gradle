@@ -1,0 +1,15 @@
+plugins {
+    id 'application'
+}
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    // Pas de dépendances complexes pour le moment
+}
+
+application {
+    mainClass = 'App'
+}
